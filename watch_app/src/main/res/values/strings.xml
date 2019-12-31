@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmazfitAddon</string>
+    <string name="smsSendButton">SMS</string>
+    <string name="locationActivityButton">location activity</string>
+</resources>
